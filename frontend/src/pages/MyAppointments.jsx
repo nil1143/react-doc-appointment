@@ -31,7 +31,9 @@ const MyAppointments = () => {
               </p>
             </div>
             <div className="flex flex-col gap-2 justify-center">
-              <button className="text-sm text-stone-500 text-center sm:min-w-48 py-2 border rounded hover:bg-orange-600 hover:text-white transition-all duration-300">Cancel appointment</button>
+              <button className="text-sm text-stone-500 text-center sm:min-w-48 py-2 border rounded hover:bg-orange-600 hover:text-white transition-all duration-300">
+                Cancel appointment
+              </button>
             </div>
           </div>
         ))}

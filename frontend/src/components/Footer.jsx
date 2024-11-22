@@ -17,28 +17,29 @@ const Footer = () => {
         </div>
         {/* ----- Mid Section ----- */}
         <div>
-            <p className="text-xl font-medium mb-5">COMPANY</p>
-            <ul className="flex flex-col gap-2 text-gray-600">
-                <li>Home</li>
-                <li>About Us</li>
-                <li>Contact Us</li>
-                <li>Privacy Policy</li>
-            </ul>
+          <p className="text-xl font-medium mb-5">COMPANY</p>
+          <ul className="flex flex-col gap-2 text-gray-600">
+            <li>Home</li>
+            <li>About Us</li>
+            <li>Contact Us</li>
+            <li>Privacy Policy</li>
+          </ul>
         </div>
         {/* ----- Right Section */}
         <div>
-            <p className="text-xl font-medium mb-5">GET IN TOUCH</p>
-            <ul>
-                <li>+0-000-000-000
-                </li>
-                <li>user@gmail.com</li>
-            </ul>
+          <p className="text-xl font-medium mb-5">GET IN TOUCH</p>
+          <ul>
+            <li>+0-000-000-000</li>
+            <li>user@gmail.com</li>
+          </ul>
         </div>
       </div>
       {/* Copyright text */}
       <div>
         <br />
-        <p className="py-5 text-sm text-center">Copyright 2024 @ <b>nil1143</b> - All Rights Reserved.</p>
+        <p className="py-5 text-sm text-center">
+          Copyright 2024 @ <b>nil1143</b> - All Rights Reserved.
+        </p>
       </div>
     </div>
   );
