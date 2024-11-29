@@ -1,26 +1,26 @@
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 * {
-    font-family: Outfit;
+  font-family: Outfit;
 }
 
 .active hr {
-    @apply block;
+  @apply block;
 }
 
-::-webkit-scrollbar{
-    @apply hidden
+::-webkit-scrollbar {
+  @apply hidden;
 }
 
-@media (max-width:740px) {
-    .active p {
-        @apply text-white bg-primary
-    }
+@media (max-width: 740px) {
+  .active p {
+    @apply text-white bg-primary;
+  }
 }
 
 .introText {
-    text-shadow: 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black;
- }
+  text-shadow: 0 0 1px gray, 0 0 1px gray, 0 0 1px gray, 0 0 1px gray;
+}

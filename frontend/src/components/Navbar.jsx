@@ -83,6 +83,7 @@ const Navbar = () => {
         >
           <div className="flex items-center justify-between px-5 py-6">
             <img width='64px' height='64px' src={assets.logo} alt="assets-logo" />
+            
             <img
               width='28px' height='28px'
               onClick={() => setShowMenu(false)}
