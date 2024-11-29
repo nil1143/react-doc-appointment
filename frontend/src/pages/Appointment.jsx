@@ -83,7 +83,7 @@ const Appointment = () => {
         {/* ----- Doctor Details ----- */}
         <div className="flex flex-col sm:flex-row gap-4">
           <div>
-            <img
+            <img width="400px" height="400px" 
               className="bg-primary w-full sm:max-w-72 rounded-lg"
               src={docInfo.image}
               alt="doctor-image"
@@ -108,7 +108,7 @@ const Appointment = () => {
             {/* ----- Doctor About ----- */}
             <div>
               <p className="flex-items-center gap-1 text-sm font-medium text-gray-900 mt-3">
-                About <img src={assets.info_icon} alt="" />
+                About <img src={assets.info_icon} alt="info-icon" />
               </p>
               <p className="text-sm text-gray-500 max-w-[700px] mt-1">
                 {docInfo.about}
