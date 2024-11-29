@@ -9,9 +9,9 @@ const Navbar = () => {
   const [token, setToken] = useState(true);
   return (
     <div className="flex items-center justify-between text-sm py-4 mb-5 border-b border-b-gray-400">
-      <img
+      <img width='64px' height='64px'
         onClick={() => navigate("/")}
-        className="w-16 cursor-pointer"
+        className="cursor-pointer"
         src={assets.logo}
         alt="nav-logo"
       />
@@ -69,9 +69,9 @@ const Navbar = () => {
             Create Account
           </button>
         )}
-        <img
+        <img width='24px' height='24px'
           onClick={() => setShowMenu(true)}
-          className="w-6 md:hidden"
+          className="md:hidden"
           src={assets.menu_icon}
           alt="menu-icon"
         />
@@ -82,7 +82,7 @@ const Navbar = () => {
           } md:hidden right-0 top-0 bottom-0 z-20 overflow-hidden bg-white transition-all`}
         >
           <div className="flex items-center justify-between px-5 py-6">
-            <img className="w-[70px]" src={assets.logo} alt="assets-logo" />
+            <img width='64px' height='64px' src={assets.logo} alt="assets-logo" />
             <img
               width='28px' height='28px'
               onClick={() => setShowMenu(false)}
