@@ -79,7 +79,8 @@ The nilAI is a React application designed in modern way, single-page website for
 
 ### Responsive View
 
-#### Desktop View
+<details>
+<summary>Desktop View - <b>CLICK</b> to see</summary>
 
 #### -HOME
 
@@ -188,10 +189,12 @@ The nilAI is a React application designed in modern way, single-page website for
 
 
 </details>
-<br>
-<hr>
 
-#### Mobile View
+</details>
+<br>
+
+<details>
+<summary>Desktop View - <b>CLICK</b> to see</summary>
 
 #### -HOME
 
@@ -272,6 +275,8 @@ The nilAI is a React application designed in modern way, single-page website for
 
 <img src="frontend/src/assets/readme/mobile-signup.png" alt="Alt Text" width="300" height="600">
 <img src="frontend/src/assets/readme/mobile-login.png" alt="Alt Text" width="300" height="600">
+</details>
+
 </details>
 <br>
 
