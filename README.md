@@ -9,7 +9,6 @@
 
 ## Contents
 * [About The Project](#about-the-project)
-    * [Description](#description)
     * [Built With](#build-with)
 * [Project Goals and UX](#project-goals-and-ux)
     * [Project Goals](#Project-Goals)
@@ -32,12 +31,6 @@
 <br>
 
 ## About The Project
-
-### Description
-
-The nilAI is a React application designed in modern way, single-page website for your SaaS product or another advertisment. Beautiful reuseable components make it smooth to navigate. With fully working backend you are able to make a test payment in Stripe Payment Gateway- very well known payment gatway in the web industry.
-
-<br><br>
 
 ### Built With
 
@@ -298,11 +291,7 @@ The nilAI is a React application designed in modern way, single-page website for
 - I have tested that the project is responsive and works with different device sizes. Looks good and functions as usual. 
 - I have tested all links, internal and external. They go to the correct destination and open in the correct way. 
 - I have tested that all text and fonts are readable and easy to understand.
-- I have tested that the correct data is passed when the forms are submitted. 
 - I have tested a navigation in the header to make sure it navigate you to correct sections.
-- I have tested that pricing Monthly/Yearly button counting values correctly.
-- I have tested that chosen subscription plan navigates you to Stripe Payment Gateway.
-- I have tested that you are able to make a test payment with message received.
 
 
 ## Deployment
