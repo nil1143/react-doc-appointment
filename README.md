@@ -79,7 +79,7 @@ The nilAI is a React application designed in modern way, single-page website for
 
 ### Responsive View
 
-### Desktop View
+#### Desktop View
 
 #### -HOME
 
@@ -191,7 +191,7 @@ The nilAI is a React application designed in modern way, single-page website for
 <br>
 <hr>
 
-### Mobile View
+#### Mobile View
 
 #### -HOME
 
@@ -199,8 +199,9 @@ The nilAI is a React application designed in modern way, single-page website for
 <summary>My Appointments - <b>CLICK</b> to see</summary>
 
 <img src="frontend/src/assets/readme/mobile-home.png" alt="Alt Text" width="300" height="600">
-
+<br>
 <img src="frontend/src/assets/readme/mobile-topdoctors.png" alt="Alt Text" width="300" height="600">
+<br>
 
 <img src="frontend/src/assets/readme/mobile-footer1.png" alt="Alt Text" width="300" height="600">
 
@@ -216,13 +217,6 @@ The nilAI is a React application designed in modern way, single-page website for
 </details>
 <br>
 
-#### - FOOTER
-<details>
-<summary>Footer - <b>CLICK</b> to see</summary>
-
-<img src="frontend/src/assets/readme/mobile-footer3.png" alt="Alt Text" width="300" height="600">
-</details>
-<br>
 
 #### - ALL DOCTORS PAGE
 
@@ -239,6 +233,7 @@ The nilAI is a React application designed in modern way, single-page website for
 <summary>About - <b>CLICK</b> to see</summary>
 
 <img src="frontend/src/assets/readme/mobile-aboutus.png" alt="Alt Text" width="300" height="600">
+<br>
 
 <img src="frontend/src/assets/readme/mobile-aboutus1.png" alt="Alt Text" width="300" height="600">
 </details>
@@ -259,10 +254,13 @@ The nilAI is a React application designed in modern way, single-page website for
 <summary>Doctor info - <b>CLICK</b> to see</summary>
 
 <img src="frontend/src/assets/readme/mobile-doctor.png" alt="Alt Text" width="300" height="600">
+<br>
 
 <img src="frontend/src/assets/readme/mobile-doctor1.png" alt="Alt Text" width="300" height="600">
+<br>
 
 <img src="frontend/src/assets/readme/mobile-doctor2.png" alt="Alt Text" width="300" height="600">
+<br>
 
 </details>
 <br>
