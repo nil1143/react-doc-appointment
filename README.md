@@ -2,7 +2,7 @@
 
  The live link can be found here - [nilAI Landing Page](https://react-doc-appointment.onrender.com/)
 
-![index_button](src/assets/readme/view.png)
+![index_button](frontend/src/assets/readme/view.png)
 
 
 
@@ -69,14 +69,14 @@ The nilAI is a React application designed in modern way, single-page website for
 
 ### Colour Scheme
 
-<img src="src/assets/readme/doc-palette.png" alt="Portfolio" style="">
+<img src="frontend/src/assets/readme/doc-palette.png" alt="Portfolio" style="">
 <br>
 
 ## Features
 
 ### Responsive View
 
-#### Desktop
+### Desktop View
 
 #### -HOME
 
@@ -84,41 +84,41 @@ The nilAI is a React application designed in modern way, single-page website for
 <details>
 <summary>Navbar and Header - <b>CLICK</b> to see</summary>
 
-<img src="src/assets/readme/header.png" alt="Alt Text">
+<img src="frontend/src/assets/readme/header.png" alt="Alt Text">
 </details>
 <br>
 
 <details>
 <summary>Speciality Section - <b>CLICK</b> to see</summary>
 
-<img src="src/assets/readme/speciality-section.png" alt="Alt Text">
+<img src="frontend/src/assets/readme/speciality-section.png" alt="Alt Text">
 </details>
 <br>
 <details>
 <summary>Top Doctors - <b>CLICK</b> to see</summary>
 
-<img src="src/assets/readme/topdoctors.png" alt="Alt Text">
+<img src="frontend/src/assets/readme/topdoctors.png" alt="Alt Text">
 </details>
 <br>
 <details>
 <summary>Banner - <b>CLICK</b> to see</summary>
 
-<img src="src/assets/readme/banner-footer.png" alt="Alt Text">
+<img src="frontend/src/assets/readme/banner-footer.png" alt="Alt Text">
 </details>
 <br>
 <details>
 <summary>Footer - <b>CLICK</b> to see</summary>
 
-<img src="src/assets/readme/footer.png" alt="Alt Text">
+<img src="frontend/src/assets/readme/footer.png" alt="Alt Text">
 </details>
 <br>
-<hr>
+
 
 #### -ALL DOCTORS
 <details>
 <summary>Doctors Page- <b>CLICK</b> to see</summary>
-<img src="src/assets/readme/doctors-page.png" alt="Alt Text">
-<img src="src/assets/readme/doctors-page-filtered.png" alt="Alt Text">
+<img src="frontend/src/assets/readme/doctors-page.png" alt="Alt Text">
+<img src="frontend/src/assets/readme/doctors-page-filtered.png" alt="Alt Text">
 </details>
 <br>
 
@@ -127,7 +127,7 @@ The nilAI is a React application designed in modern way, single-page website for
 <details>
 <summary>About - <b>CLICK</b> to see</summary>
 
-<img src="src/assets/readme/aboutus-page.png" alt="Alt Text">
+<img src="frontend/src/assets/readme/aboutus-page.png" alt="Alt Text">
 
 </details>
 <br>
@@ -138,7 +138,7 @@ The nilAI is a React application designed in modern way, single-page website for
 <details>
 <summary>About - <b>CLICK</b> to see</summary>
 
-<img src="src/assets/readme/contactus-page.png" alt="Alt Text">
+<img src="frontend/src/assets/readme/contactus-page.png" alt="Alt Text">
 
 </details>
 <br>
@@ -148,7 +148,7 @@ The nilAI is a React application designed in modern way, single-page website for
 <details>
 <summary>About - <b>CLICK</b> to see</summary>
 
-<img src="src/assets/readme/doctor-page.png" alt="Alt Text">
+<img src="frontend/src/assets/readme/doctor-page.png" alt="Alt Text">
 
 </details>
 <br>
@@ -158,8 +158,8 @@ The nilAI is a React application designed in modern way, single-page website for
 <details>
 <summary>About - <b>CLICK</b> to see</summary>
 
-<img src="src/assets/readme/signin.png" alt="Alt Text">
-<img src="src/assets/readme/login.png" alt="Alt Text">
+<img src="frontend/src/assets/readme/signin.png" alt="Alt Text">
+<img src="frontend/src/assets/readme/login.png" alt="Alt Text">
 
 </details>
 <br>
@@ -170,8 +170,8 @@ The nilAI is a React application designed in modern way, single-page website for
 <details>
 <summary>My Profile - <b>CLICK</b> to see</summary>
 
-<img style="width:500px; height:500px" src="src/assets/readme/myaccount-page.png" alt="Alt Text">
-<img style="width:500px; height:500px" src="src/assets/readme/myaccount-toggle-page.png" alt="Alt Text">
+<img style="width:500px; height:500px" src="frontend/src/assets/readme/myaccount-page.png" alt="Alt Text">
+<img style="width:500px; height:500px" src="frontend/src/assets/readme/myaccount-toggle-page.png" alt="Alt Text">
 
 </details>
 <br>
@@ -180,11 +180,15 @@ The nilAI is a React application designed in modern way, single-page website for
 <details>
 <summary>My Appointments - <b>CLICK</b> to see</summary>
 
-<img src="src/assets/readme/myappointments-page.png" alt="Alt Text">
+<img src="frontend/src/assets/readme/myappointments-page.png" alt="Alt Text">
 
 
 </details>
 <br>
+<hr>
+
+### Mobile View
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
