@@ -193,7 +193,148 @@ The nilAI is a React application designed in modern way, single-page website for
 
 ### Mobile View
 
+#### -HOME
 
+<details>
+<summary>My Appointments - <b>CLICK</b> to see</summary>
+
+<img src="frontend/src/assets/readme/mobile-home.png" alt="Alt Text" width="300" height="600">
+
+<img src="frontend/src/assets/readme/mobile-topdoctors.png" alt="Alt Text" width="300" height="600">
+
+<img src="frontend/src/assets/readme/mobile-footer1.png" alt="Alt Text" width="300" height="600">
+
+</details>
+<br>
+
+#### - TOGGLE NAVBAR
+
+<details>
+<summary>Navbar - <b>CLICK</b> to see</summary>
+
+<img src="frontend/src/assets/readme/mobile-navbar.png" alt="Alt Text" width="300" height="600">
+</details>
+<br>
+
+#### - FOOTER
+<details>
+<summary>Footer - <b>CLICK</b> to see</summary>
+
+<img src="frontend/src/assets/readme/mobile-footer3.png" alt="Alt Text" width="300" height="600">
+</details>
+<br>
+
+#### - ALL DOCTORS PAGE
+
+<details>
+<summary>All Doctors - <b>CLICK</b> to see</summary>
+
+<img src="frontend/src/assets/readme/mobile-topdoctors-section.png" alt="Alt Text" width="300" height="600">
+</details>
+<br>
+
+#### - ABOUT PAGE
+
+<details>
+<summary>About - <b>CLICK</b> to see</summary>
+
+<img src="frontend/src/assets/readme/mobile-aboutus.png" alt="Alt Text" width="300" height="600">
+
+<img src="frontend/src/assets/readme/mobile-aboutus1.png" alt="Alt Text" width="300" height="600">
+</details>
+<br>
+
+#### - CONTACT PAGE
+
+<details>
+<summary>Contact - <b>CLICK</b> to see</summary>
+
+<img src="frontend/src/assets/readme/mobile-contactus.png" alt="Alt Text" width="300" height="600">
+</details>
+<br>
+
+#### - DOCTOR INFO
+
+<details>
+<summary>Doctor info - <b>CLICK</b> to see</summary>
+
+<img src="frontend/src/assets/readme/mobile-doctor.png" alt="Alt Text" width="300" height="600">
+
+<img src="frontend/src/assets/readme/mobile-doctor1.png" alt="Alt Text" width="300" height="600">
+
+<img src="frontend/src/assets/readme/mobile-doctor2.png" alt="Alt Text" width="300" height="600">
+
+</details>
+<br>
+
+#### - SIGNUP / LOGIN
+
+<details>
+<summary>Signup / Login -<b>CLICK</b> to see</summary>
+
+<img src="frontend/src/assets/readme/mobile-signup.png" alt="Alt Text" width="300" height="600">
+<img src="frontend/src/assets/readme/mobile-login.png" alt="Alt Text" width="300" height="600">
+</details>
+<br>
+
+## Future Features
+<br>
+
+* Backend for Authentication and Booking system
+* Stripe Payment Gateway
+<br>
+
+## Testing
+
+### Accessibility Testing
+#### Lighthouse
+<img src="frontend/src/assets/readme/lighthouse-doc.png" alt="Alt Text">
+
+### Manual Testing
+- I have tested that this page works in different web browsers.
+- I have tested that the project is responsive and works with different device sizes. Looks good and functions as usual. 
+- I have tested all links, internal and external. They go to the correct destination and open in the correct way. 
+- I have tested that all text and fonts are readable and easy to understand.
+- I have tested that the correct data is passed when the forms are submitted. 
+- I have tested a navigation in the header to make sure it navigate you to correct sections.
+- I have tested that pricing Monthly/Yearly button counting values correctly.
+- I have tested that chosen subscription plan navigates you to Stripe Payment Gateway.
+- I have tested that you are able to make a test payment with message received.
+
+
+## Deployment
+
+### Cloning & Forking
+#### Fork
+1. On GitHub.com, navigate to the [nil1143/react-doc-appointment](https://github.com/nil1143/react-doc-appointment) repository.
+2. In the top-right corner of the page, click Fork.
+3. By default, forks are named the same as their parent repositories. You can change the name of the fork to distinguish it further.
+4. Add a description to your fork.
+5. Click Create fork.
+
+#### Clone
+1. Above the list of files click the button that says 'Code'.
+2. Copy the URL for the repository.
+3. Open Terminal. Change the directory to the location where you want the cloned directory.
+4. Type git clone, and then paste the URL.
+5. Press Enter.
+
+
+### Remote Deployment
+ The site was deployed to Github pages. If you have forked/cloned the repository the steps to deploy are:
+ 1. On GitHub.com, navigate to your repository.
+ 2. Navigate to the settings tab.
+ 3. Click on the tab called 'pages' on the left hand side.
+ 4. From the source drop down list under the heading Build and deployment, select main.
+ 5. The page will hten provide the link to the website.
+<br>
+<br>
+<br>
+<br>
+<div align="center">
+
+[![Github][Github]][Github-url] [![LinkedIn][LinkedIn]][Linkedin-url]
+</div>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [Mongodb]: https://img.shields.io/badge/-MongoDB-black.svg?style=for-the-badge&logo=mongodb&colorB=555
