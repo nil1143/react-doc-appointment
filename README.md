@@ -134,7 +134,7 @@
 #### -CONTACT
 
 <details>
-<summary>About - <b>CLICK</b> to see</summary>
+<summary>Contact - <b>CLICK</b> to see</summary>
 
 <img src="frontend/src/assets/readme/contactus-page.png" alt="Alt Text">
 
@@ -144,7 +144,7 @@
 #### -DOCTOR PAGE 
 
 <details>
-<summary>About - <b>CLICK</b> to see</summary>
+<summary>Doctor Page - <b>CLICK</b> to see</summary>
 
 <img src="frontend/src/assets/readme/doctor-page.png" alt="Alt Text">
 
@@ -154,7 +154,7 @@
 #### -SIGNIN / LOGIN 
 
 <details>
-<summary>About - <b>CLICK</b> to see</summary>
+<summary>Signin / Login - <b>CLICK</b> to see</summary>
 
 <img src="frontend/src/assets/readme/signin.png" alt="Alt Text">
 <img src="frontend/src/assets/readme/login.png" alt="Alt Text">
@@ -187,12 +187,12 @@
 <br>
 
 <details>
-<summary>Desktop View - <b>CLICK</b> to see</summary>
+<summary>Mobile View - <b>CLICK</b> to see</summary>
 
 #### -HOME
 
 <details>
-<summary>My Appointments - <b>CLICK</b> to see</summary>
+<summary>Home - <b>CLICK</b> to see</summary>
 
 <img src="frontend/src/assets/readme/mobile-home.png" alt="Alt Text" width="300" height="600">
 <br>
