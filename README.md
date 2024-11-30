@@ -1,9 +1,10 @@
 <h1 align="center">Doc Clinic</h1>
 
- The live link can be found here - [nilAI Landing Page](https://react-doc-appointment.onrender.com/)
+ The live link can be found here: [Doc Clinic](https://react-doc-appointment.onrender.com/)
 
 ![index_button](frontend/src/assets/readme/view.png)
 
+<br>
 
 
 ## Contents
@@ -65,6 +66,8 @@ The nilAI is a React application designed in modern way, single-page website for
 |5|As an user, <br> I want to check doctor info and booking calendar<br> so that I can schedule myself<br><br>I know I am done when the user click doctors card and it <br>directed him  to the doctors info. |
 |6|As an user, <br> I want to clinic contact information<br> so that I can get the information I need.<br><br>I know I am done when the user clicked Contact in the navigation<br> so that directed him to Contact section. |
 
+<br>
+
 ## Design
 
 ### Colour Scheme
@@ -118,6 +121,7 @@ The nilAI is a React application designed in modern way, single-page website for
 <details>
 <summary>Doctors Page- <b>CLICK</b> to see</summary>
 <img src="frontend/src/assets/readme/doctors-page.png" alt="Alt Text">
+ -Filtered specialities
 <img src="frontend/src/assets/readme/doctors-page-filtered.png" alt="Alt Text">
 </details>
 <br>
